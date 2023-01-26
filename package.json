@@ -1,0 +1,23 @@
+{
+  "name": "tcu658_backend",
+  "version": "1.0.0",
+  "description": "Backend del proyecto para el tcu 658 de la Universidad De Costa Rica",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a10campos/tcu658_backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a10campos/tcu658_backEnd/issues"
+  },
+  "homepage": "https://github.com/a10campos/tcu658_backEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
